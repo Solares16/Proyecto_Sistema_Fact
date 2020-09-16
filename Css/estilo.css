@@ -1,0 +1,22 @@
+body {
+   background-color: rgb(202, 151, 55);
+}
+
+.title,
+.imagen,
+.info,
+.contenedor {
+   border-style: solid;
+   text-align: center;
+   margin-top: 10px;
+}
+
+.imagen {
+   background-image: url('../Imagenes/barbarita.jpg');
+   background-position: 50% 0%;
+   width: 600px;
+   height: 600px;
+   background-size: cover;
+   margin: 0px auto;
+   margin-top: 10px;
+}
